@@ -3,35 +3,7 @@
 # MATLAB Homework Solutions - Series 1
 # The Homework of Matlab Lab
 ## 📂 Directory Structure
-```
-MATLAB_HW1/
-├── Data/Results/             # Outputs (plots, .txt results)
-|         
-├── Q1_Basic_Calculations/    # Basic variable calculations
-│   ├── Q1_a_b_c.m            # Calculate a, b, c values
-│   └── Q1_Spherical_Volume.m # Spherical shell volume
-│
-├── Q2_Spherical_Volume/      # Volume calculations
-│   └── Q2_Volume_Plot.m      # Plotting shell volumes
-│
-├── Q3_Matrix_Calculation/    # Matrix operations
-│   ├── Q3_EI_E2_E3.m         # Matrix construction
-│   └── Q3_Element_Ops.m      # Element-wise operations
-│
-├── Q4_Matrix_Ops/            # Advanced matrix ops
-│   ├── Q4_Log_Sqrt.m         # Log and sqrt operations
-│   └── Q4_Stats.m            # Statistical calculations
-│
-├── Q5_Linear_Equation/       # Linear systems
-│   └── Q5_Circuit_Solver.m   # Circuit current solver
-│
-├── Q6_Extra_Matrix_Ops/      # Additional matrix ops
-│   └── Q6_Sort_Mean.m        # Sorting and averaging
-│
-└── Q7_Fourier_Series/        # Fourier series
-    ├── Q7_Series1.m          # Cosine series
-    └── Q7_Series2.m          # Sine series
-```
+
 
 ## 🚀 How to Run
 1. Clone the repository:
